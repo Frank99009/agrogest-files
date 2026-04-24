@@ -1,0 +1,20 @@
+[
+  {"id":1,"nome":"Glifosato","tipo":"erbicida","stato":"vietato","note":"Vietato in zone sensibili - Reg. UE 2022/1475"},
+  {"id":2,"nome":"Clorpirifos","tipo":"insetticida","stato":"vietato","note":"Revoca autorizzazione UE - Reg. UE 2020/18"},
+  {"id":3,"nome":"Clorpirifos-metile","tipo":"insetticida","stato":"vietato","note":"Revoca autorizzazione UE - Reg. UE 2020/18"},
+  {"id":4,"nome":"Atrazina","tipo":"erbicida","stato":"vietato","note":"Vietato dal 1992 in Italia"},
+  {"id":5,"nome":"Thiram","tipo":"fungicida","stato":"vietato","note":"Revoca UE dal 2023 - Reg. UE 2022/1486"},
+  {"id":6,"nome":"Mancozeb","tipo":"fungicida","stato":"limitato","note":"Max 2 trattamenti/anno - autorizzazione condizionata"},
+  {"id":7,"nome":"Rame solfato","tipo":"fungicida","stato":"consentito","note":"Max 6 kg/ha/anno - ammesso in bio"},
+  {"id":8,"nome":"Azoto","tipo":"concime","stato":"consentito","note":"Max 170 kg/ha/anno in zone vulnerabili nitrati"},
+  {"id":9,"nome":"Fosforo","tipo":"concime","stato":"consentito","note":"Applicare piano concimazione aziendale"},
+  {"id":10,"nome":"Dimetomorf","tipo":"fungicida","stato":"consentito","note":"Registrato per vite e patata - rispettare intervallo sicurezza"},
+  {"id":11,"nome":"Imidacloprid","tipo":"insetticida","stato":"limitato","note":"Vietato in campo aperto, consentito in serra"},
+  {"id":12,"nome":"Acetamiprid","tipo":"insetticida","stato":"limitato","note":"Uso limitato - attenzione periodo fioritura"},
+  {"id":13,"nome":"Tebuconazolo","tipo":"fungicida","stato":"consentito","note":"Max 2 applicazioni/anno per coltura"},
+  {"id":14,"nome":"Epossiconazolo","tipo":"fungicida","stato":"limitato","note":"Classificato come interferente endocrino - uso ridotto"},
+  {"id":15,"nome":"Metolaclor","tipo":"erbicida","stato":"vietato","note":"Revoca UE dal 2024 - contaminazione acque"},
+  {"id":16,"nome":"Dicamba","tipo":"erbicida","stato":"limitato","note":"Uso soggetto a restrizioni regionali - deriva"},
+  {"id":17,"nome":"2,4-D","tipo":"erbicida","stato":"consentito","note":"Consentito con limitazioni - non usare in fioritura"},
+  {"id":18,"nome":"Glifosate","tipo":"erbicida","stato":"vietato","note":"Sinonimo Glifosato - vietato in zone sensibili"}
+]
